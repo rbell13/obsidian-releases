@@ -7110,5 +7110,12 @@
     "author": "Exo Ascension",
     "description": "A ChatGPT bot trained on your vault notes. Ask your AI questions about your own thoughts and ideas!",
     "repo": "exoascension/vault-chat"
+  },
+  {
+    "id": "dngngen",
+    "name": "DNGNGEN",
+    "author": "Roland Bell",
+    "description": "Render DNGNGEN generated markdown dungeons for the OSR MÖRK BORG",
+    "repo": "rbell13/obsidian-dngngen"
   }
 ]
